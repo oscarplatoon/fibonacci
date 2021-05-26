@@ -1,5 +1,6 @@
 from fibonacci import fibonacci
 
+print(fibonacci("test") == "Error")
 print(fibonacci(0) == 0)
 print(fibonacci(2) == 1)
 print(fibonacci(5) == 5)
